@@ -1,0 +1,13 @@
+site_name: Target Layout
+site_url: https://jeffkarling.github.io/Target_Layout/
+site_dir: site
+docs_dir: Documentation
+repo_url: https://github.com/JeffKarling/Target_Layout
+
+theme:
+  name: material
+
+nav:
+  - How It Works: index.md
+  - Why Target Layout: why_target_layout.md
+  - FAQ: faq.md
